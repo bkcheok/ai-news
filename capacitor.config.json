@@ -1,0 +1,8 @@
+{
+  "appId": "com.bkcheok.ainews",
+  "appName": "AI动态",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
